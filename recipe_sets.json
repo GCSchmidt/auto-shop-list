@@ -1,0 +1,32 @@
+{
+    "recipe_sets": {
+        "1": [
+            "https://www.tasteofhome.com/recipes/vegetarian-pad-thai/#RecipeCard",
+            "https://www.budgetbytes.com/wprm_print/coconut-curry-chickpeas",
+            "https://www.easycheesyvegetarian.com/greek-quesadillas/",
+            "https://www.lastingredient.com/roasted-cauliflower-and-chickpeas-with-herby-tahini/"
+        ],
+        "2": [
+            "https://www.budgetbytes.com/wprm_print/one-pot-veggie-pasta",
+            "https://eatwellify.com/tofu-broccoli-withchinese-brown-sauce/",
+            "https://www.budgetbytes.com/southwest-lentils-and-rice-skillet/",
+            "https://notycheese.com/mediterranean-vegetable-and-halloumi-tray-bake/"
+        ],
+        "3": [
+            "https://eatwellify.com/nutty-soba-noodles-withmushrooms-cabbage/",
+            "https://youtu.be/L76XJqz9PWo?si=dWyGvOIWraA8nlFN",
+            "https://www.cleaneatingwithkids.com/creamy-potato-bake/"
+        ],
+        "4": [
+            "https://www.liveeatlearn.com/vegetarian-carbonara/",
+            "https://www.easycheesyvegetarian.com/20-minute-vegetable-stroganoff/",
+            "https://www.budgetbytes.com/spinach-feta-grilled-cheese/",
+            "https://www.savorysimple.net/crispy-baked-tofu-broccoli/"
+        ],
+        "5": [
+            "https://www.budgetbytes.com/quick-veggie-pasta/",
+            "https://www.allrecipes.com/recipe/246227/tofu-stir-fry-with-peanut-sauce-vegan/",
+            "https://www.tasteofhome.com/recipes/vegetarian-enchilada-bake/#RecipeCard"
+        ]
+    }
+}
