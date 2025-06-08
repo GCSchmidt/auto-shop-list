@@ -1,0 +1,15 @@
+# Ignore Python cache and environment files
+__pycache__/
+*.py[cod]
+*.env
+*.log
+
+# Ignore virtual environment folder
+venv/
+
+# Ignore VS Code settings
+.vscode/
+
+# Additional
+chromedriver-win64
+examples.py
